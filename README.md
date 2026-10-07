@@ -103,9 +103,3 @@ MentHers is a mentoring community for women and girls.
 - Accounts have no passwords, so access depends on control of the email inbox.
 - If mentees can be under 18, add age checks and guardian consent before a public launch.
 
-## Contributing
-
-1. Clone the repo: `git clone https://github.com/jsharanya09/MentHers.git`
-2. Create a branch for your work: `git checkout -b my-feature`
-3. Commit your changes and push the branch
-4. Open a Pull Request on GitHub
